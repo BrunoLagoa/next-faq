@@ -11,7 +11,7 @@ export default function Home() {
   };
   
   return (
-    <div className="min-h-screen flex justify-center items-center p-8" data-theme={theme}>
+    <div className="min-h-screen flex justify-center items-center p-4" data-theme={theme}>
 
       <div className="card bg-base-200 max-w-screen-md min-h-[550px] shadow-xl">
         <div className="card-body space-y-8">
