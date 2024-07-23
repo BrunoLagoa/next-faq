@@ -67,7 +67,7 @@ Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o
 <br/><br/>
 
 <p>Site publicado em:</p>
-<a alt="Bruno Castro" target="_blank" rel="noopener noreferrer" href="https://next-b8hziusz6-bruno-castros-projects.vercel.app/">Clique aqui para visualizar</a>
+<a alt="Bruno Castro" target="_blank" rel="noopener noreferrer" href="next-faq.vercel.app">Clique aqui para visualizar</a>
 
 ---
 
