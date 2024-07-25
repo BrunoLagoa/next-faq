@@ -17,13 +17,16 @@ export default function Home() {
         <div className="card-body space-y-8">
           <h2 className="card-title mx-auto text-2xl">Perguntas frequentes</h2>
           <div className="flex flex-row flex-wrap sm:flex-nowrap">
-            <div className="flex flex-col space-y-5 h-full p-8">
+            <div className="flex justify-center items-center w-full flex-col space-y-5 h-full p-8">
+              <div className="w-60 sm:w-auto">
               <Image
                 src="/faq.svg"
                 alt="FAQ"
                 width={400}
                 height={400}
+                className="object-contain"
               />
+              </div>
 
               <div className="mx-auto">
               <label className="swap swap-rotate">
